@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/devel
+
+Name: ros_topic_test
+Description: Description of ros_topic_test
+Version: 0.0.0
+Cflags: -I/home/ros/catkin_ws/devel/include
+Libs: -L${prefix}/lib -lros_topic_test
+Requires: roscpp std_msgs
