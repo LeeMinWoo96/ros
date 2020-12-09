@@ -1,0 +1,3 @@
+[submodule "jetson_ros_melodic"]
+	path = jetson_ros_melodic
+	url = https://github.com/katebrighteyes/jetson_ros_melodic.git
