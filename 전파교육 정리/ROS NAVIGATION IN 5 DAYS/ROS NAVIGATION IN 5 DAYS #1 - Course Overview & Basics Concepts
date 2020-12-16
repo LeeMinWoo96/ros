@@ -1,0 +1,24 @@
+ROS NAVIGATION IN 5 DAYS #1 - Course Overview & Basics Concepts
+
+네비게이션은 맵과 localize가 필요하다.
+그리고 경로 계획과 지도에 표시되지 않은 장애물을 피해야한다.
+
+
+
+Rviz 에서 레이즈 시각화하는거 처음에 보여주기
+토픽명 써서 정하고 하는거 
+
+맵도 보여주기 
+
+slam_gmapping 노드를 사용해서 레이저 정보를 2차원 지도로 만들 수 있음 
+
+맵을 저장하면 pgm 과 yaml 파일이 생기는데 pgm 은 맵 이미지 파일 
+
+
+map 에서 -1 은 unknown 0은 free 100 은 이동할 수 없는 공간 
+
+
+
+----
+
+https://www.youtube.com/watch?v=mYwIu4OVMR8
